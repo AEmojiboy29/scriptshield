@@ -1,0 +1,9 @@
+# .vercelignore (files to ignore when deploying)
+node_modules
+*.log
+.env.local
+.env.development
+.DS_Store
+.git
+.gitignore
+README.md
